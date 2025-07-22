@@ -1,19 +1,19 @@
-# Food Calorie Calculator 🍽️
+# Food Calorie Calculator
 
 A Django-based calorie counter app that allows users to track their food intake and monitor their nutrition.
 
-👉 Check the full article here: [Blog Post](https://medium.com/dev-genius/calorie-tracker-app-with-python-django-framework-cc86dc2046e8)
+ Check the full article here: [Blog Post](https://medium.com/dev-genius/calorie-tracker-app-with-python-django-framework-cc86dc2046e8)
 
-## 🔧 Features
+## Features
 - Add, edit, and delete food items
 - View nutrition details
 - Track daily calorie intake
 - User authentication (register/login)
 
-## 📦 Tech Stack
+## Tech Stack
 - Django
 - HTML/CSS Templates
 - SQLite
 
-## 🙋‍♀️ Author
+## Author
 **Deepti Goditi**
